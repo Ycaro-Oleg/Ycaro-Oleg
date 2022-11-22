@@ -2,7 +2,7 @@
 
 
 # 👨‍🎓 Sobre mim:
-🔭 Atualmente estou atuando como freelancer<br>👯 Estou disposto a trabalhar e colaborar em qualquer projeto<br>🌱 Me aperfeiçoando em ReactJS , NodeJS e MySQL<br>📖 Sou um eterno estudante , amante do conhecimento e sempre que começo algo novo faço questão de dar meu 100% naquilo
+🔭 Atualmente estou atuando como freelancer<br>👯 Estou disposto a trabalhar e colaborar em qualquer projeto<br>🌱 Falo fluentemente inglês e atualmente estou me aperfeiçoando em ReactJS , NodeJS e MySQL<br>📖 Sou um eterno estudante , amante do conhecimento e sempre que começo algo novo faço questão de dar meu 100% naquilo
 
 
 ## 🌐 Socials:
