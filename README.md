@@ -1,4 +1,4 @@
-# Olá !! muito prazer me chamo Ycaro Pires e sou um FullStack Developer 💻
+# Olá !! muito prazer me chamo Ycaro Pires e sou um Desenvolvedor 💻
 
 
 # 👨‍🎓 Sobre mim:
