@@ -1,7 +1,7 @@
 
 
   <p align="center">
-  <img src="Ycaro Pires.png" width= "90%"alt="banner profile" />
+  <img src="Ycaro Pires (1).png" alt="banner profile" />
 </p>
 
 <p align="center">
