@@ -34,10 +34,6 @@
 <img src="lineBar.png" width="100%" height="8px"/>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ycaro-Oleg&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="GitHub Phrase">
 </p>
 
