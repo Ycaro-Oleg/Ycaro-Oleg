@@ -15,8 +15,8 @@
 
 <img src="lineBar.png" width="100%" height="8px"/>
 
-# 👨‍🎓 Sobre mim:
-🔭 Atualmente estou atuando como Fullstack developer na empresa Coreplan<br><br>🌱 Falo fluentemente inglês e atualmente estou me aperfeiçoando em ReactJS , Ruby , Ruby on rails e MySQL<br>
+# 👨‍🎓 About me:
+🔭 Mid-level Fullstack Developer at Coreplan    <br><br>🌱 I am fluent in English and have strong proficiency in ReactJS, Ruby, Ruby on Rails, and MySQL<br>
 
 # 💻 Tech Stack:
 <p align="center">
