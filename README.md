@@ -18,7 +18,7 @@
 
 ### About
 
-Backend-focused Software Engineer with 4+ years shipping high-availability Ruby on Rails systems in production. I've led integrations adopted across multiple government institutions in Brazil and I like wiring AI APIs into real workflows, not demos.
+Backend-focused Software Engineer with 4+ years shipping high-availability Ruby on Rails systems in production. I've led integrations adopted across multiple government institutions in Brazil and I like wiring AI APIs into real workflows.
 
 Based in Fortaleza, Brazil · open to remote & relocation — US / EU
 
