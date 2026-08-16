@@ -14,13 +14,11 @@
 
 ### About
 
-Backend-focused Software Engineer with 4+ years shipping high-availability Ruby on Rails systems in production. I've led integrations adopted across multiple government institutions in Brazil, cut delivery time ~40% and production incidents ~25% through better architecture, and I like wiring AI APIs into real workflows, not demos.
+Backend-focused Software Engineer with 4+ years shipping high-availability Ruby on Rails systems in production. I've led integrations adopted across multiple government institutions in Brazil and I like wiring AI APIs into real workflows, not demos.
 
 Based in Fortaleza, Brazil · open to remote & relocation — US / EU
 
 **Currently:** Mid-level Software Engineer @ Coreplan — leading a mission-critical judicial-integration platform (REST/Bearer auth, async job processing, PDF generation) live across 4+ State Attorney General offices.
-
-**Impact:** 40% faster delivery · 25% fewer production incidents · 4+ institutions running it in production
 
 ### Stack
 
