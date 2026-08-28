@@ -34,7 +34,7 @@ Based in Fortaleza, Brazil · open to remote & relocation — US / EU
 
 ### What I'm working on
 
-**[Kaerus](https://kaerus.dev)** — Debugging clinic that measures unaided skill. Drills and incident-pressure simulations run with the assistant turned off on purpose: the next outage will take that measurement either way, so the product takes it first. A simulated Linux host is a pure world-model — nothing is executed — so every engineer on a team gets a byte-identical incident and the report records what was observed, not how clever the write-up sounded. Sandboxed graders score Ruby / JS / Python / Go. The dashboard flags atrophy from graded attempts before Friday's page does. Source is private; the product is live at [kaerus.dev](https://kaerus.dev).
+**[Kaerus](https://kaerus.dev)** — Debugging clinic that measures unaided skill. Drills and incident-pressure simulations run with the assistant turned off on purpose: the next outage will take that measurement either way, so the product takes it first. A simulated Linux host is a pure world-model nothing is executed so every engineer on a team gets a byte-identical incident and the report records what was observed, not how clever the write-up sounded. Sandboxed graders score Ruby / JS / Python / Go. The dashboard flags atrophy from graded attempts before Friday's page does. Source is private; the product is live at [kaerus.dev](https://kaerus.dev).
 
 **[SlackBot-SynergyRails](https://github.com/Ycaro-Oleg/SlackBot-SynergyRails)** — AI Slack assistant with per-thread conversation memory. Rails 8 API, JWT-secured admin surface, Sidekiq jobs, a hand-rolled OpenAI streaming client, and full CI (Rubocop, Brakeman, RSpec). Milestone 3 of 4.
 
