@@ -27,9 +27,8 @@ Based in Fortaleza, Brazil · open to remote & relocation — US / EU
 **Building:** [Kaerus](https://kaerus.dev) — a clinic that measures whether engineers can still debug with the assistant closed.
 
 ### Stack
-
-**Backend** — Ruby, Ruby on Rails, PostgreSQL, Sidekiq / Resque, REST APIs, JWT Auth
 **Frontend** — React, Next.js, TypeScript, JavaScript
+**Backend** — Ruby, Ruby on Rails, PostgreSQL, Sidekiq / Resque, REST APIs, JWT Auth
 **Practices** — CI/CD, OOP & SOLID, Automated testing (RSpec), AI API integration (OpenAI / Azure)
 
 ### What I'm working on
