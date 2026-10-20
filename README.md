@@ -28,7 +28,9 @@ Based in Fortaleza, Brazil · open to remote & relocation — US / EU
 
 ### Stack
 **Frontend** — React, Next.js, TypeScript, JavaScript
+
 **Backend** — Ruby, Ruby on Rails, PostgreSQL, Sidekiq / Resque, REST APIs, JWT Auth
+
 **Practices** — CI/CD, OOP & SOLID, Automated testing (RSpec), AI API integration (OpenAI / Azure)
 
 ### What I'm working on
