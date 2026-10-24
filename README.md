@@ -11,7 +11,7 @@
   &nbsp;·&nbsp;
   <a href="https://ycaro-oleg.github.io/">Portfolio</a>
   &nbsp;·&nbsp;
-  <a href="https://kaerus.dev">Kaerus</a>
+  <a href="https://larpr.dev">Larper</a>
 </p>
 
 ---
@@ -24,7 +24,7 @@ Based in Fortaleza, Brazil · open to remote & relocation — US / EU
 
 **Currently:** Mid-level Software Engineer @ Coreplan — leading a mission-critical judicial-integration platform (REST/Bearer auth, async job processing, PDF generation) live across 4+ State Attorney General offices.
 
-**Building:** [Kaerus](https://kaerus.dev) — a clinic that measures whether engineers can still debug with the assistant closed.
+**Building:** [Larper](https://larpr.dev) — write a free-form story, get native posts for LinkedIn, X, Threads and Reddit, then edit, schedule and publish them.
 
 ### Stack
 **Frontend** — React, Next.js, TypeScript, JavaScript
@@ -35,7 +35,7 @@ Based in Fortaleza, Brazil · open to remote & relocation — US / EU
 
 ### What I'm working on
 
-**[Kaerus](https://kaerus.dev)** — Debugging clinic that measures unaided skill. Drills and incident-pressure simulations run with the assistant turned off on purpose: the next outage will take that measurement either way, so the product takes it first. A simulated Linux host is a pure world-model nothing is executed so every engineer on a team gets a byte-identical incident and the report records what was observed, not how clever the write-up sounded. Sandboxed graders score Ruby / JS / Python / Go. The dashboard flags atrophy from graded attempts before Friday's page does. Source is private; the product is live at [kaerus.dev](https://kaerus.dev).
+**[Larper](https://larpr.dev)** — Turns a free-form story into native posts for LinkedIn, X, Threads and Reddit. Each network gets its own voice, the author edits and schedules from one screen, and publishing runs from the same queue. Next.js 15, Prisma, PostgreSQL, Auth.js and the Vercel AI SDK. Live at [larpr.dev](https://larpr.dev).
 
 **[SlackBot-SynergyRails](https://github.com/Ycaro-Oleg/SlackBot-SynergyRails)** — AI Slack assistant with per-thread conversation memory. Rails 8 API, JWT-secured admin surface, Sidekiq jobs, a hand-rolled OpenAI streaming client, and full CI (Rubocop, Brakeman, RSpec). Milestone 3 of 4.
 
